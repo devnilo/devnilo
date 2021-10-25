@@ -4,7 +4,7 @@
 <br></br>
 
 - 📕 I’m currently learning ...
-- 📘 Plan to learn <b>C#, PHP and Python in the future</br>
+- 📘 Plan to learn <b>C#, PHP and Python</br> in the future
 - 📧 How to reach me: dnlysid@gmail.com
 
 
