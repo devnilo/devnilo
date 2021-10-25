@@ -1,14 +1,17 @@
 <h2 align="center">Oi, pode me chamar de Danilo! 👋</h2>
 <h3 align="center">💫 atualy i learning more about <b>backend</b> world 💫</h3>
 <br></br>
-<br></br>
 
 - 📕 I’m currently learning ...
 - 📘 Plan to learn <b>C#, PHP and Python</b> in the future
-- 📧 How to reach me: dnlysid@gmail.com
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devnilo/)](https://www.linkedin.com/in/devnilo/) 
+<h3 align="left">How to reach me</h4>
+
+<a href="https://www.instagram.com/_arjdan" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/devnilo" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:dnlysid@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <table align="center">
   <row>
