@@ -4,13 +4,21 @@
 <br></br>
 
 - 📕 I’m currently learning ...
-- 📘 Plan to learn <b>C#, PHP and Python</br> in the future
+- 📘 Plan to learn <b>C#, PHP and Python</b> in the future
 - 📧 How to reach me: dnlysid@gmail.com
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devnilo/)](https://www.linkedin.com/in/devnilo/) 
 
-<br></br>
+<table align="center">
+  <row>
+    <td>
+     <!-- Card -->
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnilo&layout=compact&langs_count=7&theme=radical"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devnilo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    </td>
+  </row>
+</table> 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devnilo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnilo&layout=compact&langs_count=7&theme=radical"/>
