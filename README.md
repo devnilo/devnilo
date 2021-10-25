@@ -2,11 +2,11 @@
 <h3 align="center">💫 atualy i learning more about <b>backend</b> world 💫</h3>
 <br></br>
 
-- 📕 I’m currently learning ...
+- 📕 I’m currently learning <b>JavaScript, NodeJS
 - 📘 Plan to learn <b>C#, PHP and Python</b> in the future
 
 
-<h3 align="left">How to reach me</h4>
+<h3 align="left"><b>How to reach me</b></h4>
 
 <a href="https://www.instagram.com/_arjdan" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/devnilo" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
