@@ -2,7 +2,7 @@
 <h3 align="center">💫 atualy i learning more about <b>backend</b> world 💫</h3>
 <br></br>
 
-- 📕 I’m currently learning <b>JavaScript, NodeJS
+- 📕 I’m currently learning <b>JavaScript, NodeJS</b>
 - 📘 Plan to learn <b>C#, PHP and Python</b> in the future
 
 
