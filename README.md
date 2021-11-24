@@ -1,4 +1,4 @@
-<h2 align="center">Oi, pode me chamar de Danilo! 👋</h2>
+<h2 align="center">Olá, pode me chamar de Danilo! 👋</h2>
 <h3 align="center">💫 atualy i learning more about <b>backend</b> world 💫</h3>
 <br></br>
 
