@@ -35,3 +35,6 @@
   </row>
 </table> 
 
+<p align="center">
+  <a href="https://github.com/henriquedantass" target="_blank"><img alt="henriquedantass" src="https://badges.pufler.dev/visits/devnilo/devnilo?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
+</p>
