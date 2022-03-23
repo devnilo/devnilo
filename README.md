@@ -17,6 +17,7 @@
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="21px" height="21px"></a>
 <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_16x16.png" alt="MongoDB" width="21px" height="21px"></a>
+<a href="https://www.postgresql.org/" title="PostgresSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" height="21" width="21">
   
 <h3 align="left"><b>How to reach me</b></h3>
 
