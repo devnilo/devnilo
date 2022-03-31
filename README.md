@@ -3,7 +3,7 @@
 <br></br>
 
 - 📕 I’m currently learning more about <b>JavaScript and NodeJS</b>
-- 📘 Plan to learn <b>PHP in the future
+- 📘 Plan to learn <b>TypeScript and React</b> in the future
 
 
 <h3 align="left"><b>Languages and Tools</b></h3>
