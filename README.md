@@ -30,7 +30,6 @@
 <table align="center">
   <row>
     <td>
-     <!-- Card -->
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnilo&layout=compact&langs_count=7&theme=radical"/>
     </td>
     <td>
