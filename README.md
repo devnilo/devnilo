@@ -36,8 +36,4 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devnilo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     </td>
   </row>
-</table> 
-
-<p align="center">
-  <a href="https://github.com/devnilo" target="_blank"><img alt="devnilo" src="https://badges.pufler.dev/visits/devnilo/devnilo?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
-</p>
+</table>
